@@ -62,9 +62,13 @@ _According to the data used in the previous analysis, ethical issues occur. Some
 ### 10. Reference
 
 [1]M. Cox, "Inside Airbnb. Adding data to the debate.", Inside Airbnb, 2020. [Online]. Available: http://insideairbnb.com/behind.html. [Accessed: 26- Nov- 2020].
+
 [2]M. Cox, "Inside Airbnb. Adding data to the debate.", Inside Airbnb, 2020. [Online]. Available: http://insideairbnb.com/about.html. [Accessed: 26- Nov- 2020].
+
 [3]T. Slee, "Airbnb Data Collection: Methodology and Accuracy", Tomslee.net, 2020. [Online]. Available: https://tomslee.net/airbnb-data-collection-methodology-and-accuracy. [Accessed: 26- Nov- 2020]. 
+
 [4]L. Pipino, Y. Lee and R. Wang, "Data quality assessment", Communications of the ACM, vol. 45, no. 4, pp. 211-218, 2002. Available: 10.1145/505248.506010 [Accessed 26 November 2020].
+
 [5]G. Shmueli, "Analyzing Behavioral Big Data: Methodological, Practical, Ethical, and Moral Issues", Quality Engineering, pp. 0-0, 2016. Available: 10.1080/08982112.2016.1210979 [Accessed 26 November 2020].
 
 ---
